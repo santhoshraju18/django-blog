@@ -1,0 +1,15 @@
+Admin 
+1.Profile
+local variable 'store' referenced before assignment
+
+2.Publisher
+
+1.Slicer table styling issues
+2.dates must be current month
+3.Location showing Null it must be Other only
+4.purge impressions <10
+5.locations slicer link
+6.if logged in as publisher, can access only publisher screens only else 404
+7.Placement list status required, orderby  active
+8
+

@@ -1,0 +1,50 @@
+[
+{
+    "model": "blog.author",
+    "pk": 1,
+    "fields": {
+      "name": "Franz kafka",
+      "birth_date": "1883-07-03"
+    }
+  },
+  {
+    "model": "blog.author",
+    "pk": 2,
+    "fields": {
+      "name": "Albert Camus",
+      "birth_date": "1913-11-07"
+    }
+  },
+  {
+    "model": "blog.author",
+    "pk": 3,
+    "fields": {
+      "name": "Friedrich Nietzsche",
+      "birth_date": "1844-10-15"
+    }
+  },
+  {
+    "model": "blog.author",
+    "pk": 4,
+    "fields": {
+      "name": "Karl Marx",
+      "birth_date": "1818-05-15"
+    }
+  },
+  {
+    "model": "blog.author",
+    "pk": 5,
+    "fields": {
+      "name": "Fyodor Dostoyevsky",
+      "birth_date": "1821-11-11"
+    }
+  },
+  {
+    "model": "blog.author",
+    "pk": 6,
+    "fields": {
+      "name": "Haruki Murakami",
+      "birth_date": "1949-01-12"
+    }
+  }
+]
